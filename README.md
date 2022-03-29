@@ -54,6 +54,7 @@ close_contact_time = 30
 |f4efde7189962a420d41d7dbc6ba570c0c723b47|
 |ad9322aac7896a0479f298541f0bd1f6d48e0220|
 
+
 ## 执行
 在 `src` 目录下执行 `main.py`
 
@@ -95,7 +96,6 @@ python3 main.py
 <tr><td>784f7a147eb50759fd08b6f407693d8fdb3379f7</td><td>2022-03-01 06:42:24</td><td>校区A</td><td>A餐厅25#</td><td>餐费支出</td><td>ad9322aac7896a0479f298541f0bd1f6d48e0220</td>
 </tr>
 </table>
-
 
 ## 运行逻辑
 1. 第一步，读取输入的user_id，一个个进行密接查询
