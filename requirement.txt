@@ -1,0 +1,8 @@
+sqlalchemy==1.4.28
+pymysql
+cx_oracle
+pandas
+openpyxl
+Jinja2
+
+# pip3 install -i  https://pypi.doubanio.com/simple/  --trusted-host pypi.doubanio.com
